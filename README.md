@@ -7,5 +7,6 @@ An end-to-end Data Analysis project built in Microsoft Excel to uncover key busi
 - **Interactive Slicers:** Seamless cross-filtering to analyze trends by specific regions, dates, and categories.
 - **Advanced Formulas:** Utilized lookup functions and statistical logic for accurate calculations.
 - **VBA & Macro Automation:** Custom macro scripts and form controls for enhanced dashboard functionality.
-<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/1c842e59-d78c-41d0-a3e4-de41e17af347" />
+<img width="1466" height="706" alt="Screenshot 2026-10-02 115315" src="https://github.com/user-attachments/assets/356f731a-0593-4b14-9e42-e728197392e9" />
+
 
